@@ -1,0 +1,25 @@
+name:                conduit-playground
+version:             0.1.0.0
+#synopsis:
+#description:
+homepage:            https://github.com/bjarkevad/conduit-playground#readme
+license:             BSD3
+author:              bjarke
+maintainer:          bjarke.vad90@gmail.com
+copyright:           Bjarke Vad
+category:            Web
+extra-source-files:
+- README.md
+
+dependencies:
+  - base >= 4.7 && < 5
+  - conduit-combinators
+  - network
+  - async
+  - bytestring
+
+
+executables:
+  conduit-playground:
+    source-dirs:      src
+    main:             Main.hs
