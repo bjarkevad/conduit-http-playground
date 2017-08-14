@@ -1,1 +1,1 @@
-# conduit-playground
+# conduit-http-playground

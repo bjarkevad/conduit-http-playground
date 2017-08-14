@@ -1,8 +1,8 @@
-name:                conduit-playground
+name:                conduit-http-playground
 version:             0.1.0.0
 #synopsis:
 #description:
-homepage:            https://github.com/bjarkevad/conduit-playground#readme
+homepage:            https://github.com/bjarkevad/conduit-http-playground#readme
 license:             BSD3
 author:              bjarke
 maintainer:          bjarke.vad90@gmail.com
